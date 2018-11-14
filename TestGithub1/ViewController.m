@@ -19,6 +19,12 @@
     
     NSLog(@"test");
     NSLog(@"test1");
+    int a=298;
+    int b= 567;
+    int c = a+b;
+    NSLog(@"c:%d",c);
+    
+    NSLog(@"testbrach");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
